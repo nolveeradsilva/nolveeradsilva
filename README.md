@@ -1,4 +1,9 @@
 ## Hello 
+I am Nolveera DSilva, SDET/QA Engineer.
+
+With 10+ years in Quality Engineering, I’ve evolved from manual and functional testing into a modern SDET / QA Automation Engineer — passionate about test automation, quality strategy, and building reliable, scalable test frameworks.
+
+Strong believer in shift-left testing and quality engineering — I work extensively with UI, API, and end-to-end automation using tools like Playwright, Selenium, Cypress, and REST Assured to enable faster, safer releases.
 
 <!--
 **nolveeradsilva/nolveeradsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
